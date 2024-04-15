@@ -1,6 +1,4 @@
-![Uploading Beige & Black Geometric Technology LinkedIn Banner.jpg…]()
-(https://github.com/Navneetpatidar/Navneetpatidar/assets/137178251/7959f2ae-dbbd-43fb-9dca-7d1adb669ddd)
-1C1VDKB_enIN1063IN1064&sxsrf=ACQVn08VkS2dHkII1_O0Jz-KHgaA05Vbxg:1708924121815&q=github+mages+4k&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjU8em5nsiEAxV2T2wGHcuQDogQ0pQJegQIDRAB&biw=1536&bih=695&dpr=1.25#imgrc=iXRAiGYNLeKDEM)
+
 <h1 align="center">Hi 👋, I'm NAVNEET PATIDAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
