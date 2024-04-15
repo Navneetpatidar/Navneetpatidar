@@ -1,5 +1,12 @@
 
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/Navneetpatidar/Navneetpatidar/assets/137178251/b8a96c52-b562-45a9-a4e5-c268bbdd2142)
+
+
+
+
 <h1 align="center">Hi 👋, I'm NAVNEET PATIDAR</h1>
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
