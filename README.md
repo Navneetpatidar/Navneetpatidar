@@ -1,8 +1,4 @@
 
-![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/Navneetpatidar/Navneetpatidar/assets/137178251/b8a96c52-b562-45a9-a4e5-c268bbdd2142)
-
-
-
 
 <h1 align="center">Hi 👋, I'm NAVNEET PATIDAR</h1>
 
