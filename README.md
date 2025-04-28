@@ -12,21 +12,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navneetpatidar&label=Profile%20views&color=0e75b6&style=flat" alt="Navneetpatidar" /> </p>
 
-<p align="left"> <a href="https://https://twitter.com/@_navneet828" target="blank"><img src="https://img.shields.io/twitter/follow/_navneet828?logo=twitter&style=for-the-badge" alt="_navneet828" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript, Python, Reactjs**
+- 🌱 I’m currently learning **JavaScript, Python, Angular**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **navneetpatidar.com1@gmail.com**
+- 📫 How to reach me **navneetpatidar0828@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F2xI8vPwWGq3eycR94BfLOufLxAvl7Dw/view?usp=drive_link](https://drive.google.com/file/d/1F2xI8vPwWGq3eycR94BfLOufLxAvl7Dw/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ZXp7fOeROR5tnGUJPljtCFckSa4LPMkJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@_navneet828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_navneet828" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navneet-patidar-3b00b4229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/navneet-patidar-3b00b4229" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_navneet828/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_navneet828" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="#" height="30" width="40" /></a>
 </p>
 
